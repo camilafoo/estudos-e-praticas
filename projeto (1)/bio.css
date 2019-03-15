@@ -64,7 +64,9 @@ nav a {
 	
 	
 }
-
+aside li{
+	display: inline-block;
+}
 main a {
 	color: #851944;
 	
@@ -76,7 +78,7 @@ aside a {
 }
 main div{
 	width: 720px;
-	margin: auto;
+	
 	padding: 30px 0;
 }
 strong {
